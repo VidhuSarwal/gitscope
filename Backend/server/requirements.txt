@@ -1,0 +1,16 @@
+fastapi>=0.109.0
+uvicorn
+motor
+pydantic>=2.7.4
+pydantic[email]
+pydantic-settings
+langchain
+langchain-google-genai
+requests
+httpx
+python-dotenv
+passlib[bcrypt]
+python-jose
+cryptography
+email-validator
+chromadb
