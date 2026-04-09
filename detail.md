@@ -1,9 +1,9 @@
-# Project Summary: GitHub Analysis Platform (Vcrypt)
+# Project Summary: GitScope
 
 ## 1. Overall Project Overview
 
 ### What is this project?
-The **GitHub Analysis Platform** (internally referred to as **Vcrypt**) is a sophisticated web application designed to provide deep, intelligent insights into GitHub repositories. It serves as an automated documentation and analysis tool that transforms raw code and commit history into human-readable narratives, summaries, and technical breakdowns.
+**GitScope** is a sophisticated web application designed to provide deep, intelligent insights into GitHub repositories. It serves as an automated documentation and analysis tool that transforms raw code and commit history into human-readable narratives, summaries, and technical breakdowns.
 
 ### How does it work?
 The project follows a modern client-server architecture:
